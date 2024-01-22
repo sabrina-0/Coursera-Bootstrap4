@@ -19,5 +19,9 @@
   "homepage": "https://github.com/sabrina-0/Coursera-Bootstrap4#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "bootstrap-icons": "^1.11.3"
   }
 }
